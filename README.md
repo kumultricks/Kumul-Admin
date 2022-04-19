@@ -1,6 +1,6 @@
 # KUMUL_ADMIN By Squid675 ( MOD ENGLISH )
 ```
-* KUMUL_ADMIN (Final Version 8.6x)
+* KUMUL_ADMIN (Final Version 8.5x)
 ```
 ![logo](https://raw.githubusercontent.com/khaledagn/VPS-AGN_English_Official/main/VPS-AGN.png)
 
@@ -47,7 +47,7 @@ BOT MANAGER:
 
 # Installation
 ```
-rm -rf install-without-key.sh; apt update; apt install curl; apt install bc; wget https://github.com/khaledagn/VPS-AGN_English_Official/raw/main/installer/install-without-key.sh; chmod 777 install-without-key.sh; ./install-without-key.sh --start
+rm -rf install-without-key.sh; apt update; apt install curl; apt install bc; wget https://github.com/kumultricks/Kumul-Admin/blob/main/installer/install-without-key.sh; chmod 777 install-without-key.sh; ./install-without-key.sh --start
 
 ```
 
