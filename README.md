@@ -1,14 +1,15 @@
-# VPS-AGN By KHALED AGN ( MOD ENGLISH )
+# KUMUL_ADMIN By Squid675 ( MOD ENGLISH )
 ```
-* VPS-AGN (Final Version OF VPS-MX 8.5x)
+* KUMUL_ADMIN (Final Version 8.5x)
 ```
 ![logo](https://raw.githubusercontent.com/khaledagn/VPS-AGN_English_Official/main/VPS-AGN.png)
 
 ```
-# SCRIPT VPS•AGN ® VPS Script Manager
+# KUMUL_ADMIN ® VPS Script Manager
 
-THIS IS A SCRIPT FOR THE MANAGEMENT OF TYPE ACCOUNTS:
+THIS IS A PREMIUM SCRIPT FOR THE MANAGEMENT OF TYPE ACCOUNTS:
 
+-WEBSOCKET
 -SSH
 -SSL
 -DROPBEAR
