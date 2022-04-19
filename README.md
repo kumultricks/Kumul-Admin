@@ -52,12 +52,12 @@ rm -rf install-without-key.sh; apt update; apt install curl; apt install bc; wge
 ```
 
 
-## :octocat: Translated and Modded by KHALED AGN
+## :octocat: Translated and Modded by Squid675
 <ul>
- <li>TELEGRAM CHANNEL: https://t.me/khaledagn</li>
- <li>FACEBOOK: https://www.facebook.com/khaledagn.me</li>
- <li>INSTAGRAM: https://www.instagram.com/khaledagn</li>
- <li>TWITTER: https://www.instagram.com/khaled_agn</li>
+ <li>TELEGRAM CHANNEL: https://t.me/squid675</li>
+ <li>FACEBOOK: https://www.facebook.com/squid675</li>
+ <li>INSTAGRAM: https://www.instagram.com/squid675</li>
+ <li>TWITTER: https://www.instagram.com/squid675</li>
  
  </ul>
  
