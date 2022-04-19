@@ -222,7 +222,7 @@ done
 
 clear && clear
 msg -bar2
-echo -e " \e[5m\033[1;100m   =====>> ►► 🐲 VPS-AGN - SCRIPT  🐲 ◄◄ <<=====   \033[1;37m"
+echo -e " \e[5m\033[1;100m   =====>> ►► 🇵🇬 KUMUL ADMIN 🇵🇬 ◄◄ <<=====   \033[1;37m"
 msg -bar2
 print_center -ama "AVAILABLE SCRIPT LIST"
 msg -bar
