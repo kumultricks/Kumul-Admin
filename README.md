@@ -1,6 +1,6 @@
 # KUMUL_ADMIN By Squid675 ( MOD ENGLISH )
 ```
-* KUMUL_ADMIN (Final Version 8.5x)
+* KUMUL_ADMIN (Final Version 8.6x)
 ```
 ![logo](https://raw.githubusercontent.com/khaledagn/VPS-AGN_English_Official/main/VPS-AGN.png)
 
